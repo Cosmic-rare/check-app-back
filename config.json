@@ -1,0 +1,8 @@
+{
+  "development": {
+    "DATABASE_URI": "mongodb://localhost/check-app"
+  },
+  "production": {
+    "DATABASE_URI": "mongodb://checkapp.tani.tk/"
+  }
+}
